@@ -177,3 +177,25 @@ ARIMA Order:
 
 Seasonal Order:
 (1, 1, 1, 7)
+
+
+---
+
+## 🚀 Future Improvements
+
+Potential enhancements for this project include:
+
+* Integrating real-time EV charging station data.
+* Comparing additional time-series forecasting models.
+* Adding confidence intervals to demand forecasts.
+* Developing an interactive dashboard for exploring forecasts.
+* Evaluating model performance as new charging data becomes available.
+
+These improvements could help make EV charging demand forecasts more useful for infrastructure planning and operational decision-making.
+
+
+## 🤝 Collaboration
+
+This project can be extended through collaborative contributions, including documentation improvements, forecasting experiments, data quality checks, and dashboard enhancements.
+
+Contributors should explain their changes clearly and validate analytical results before incorporating them into the project.
