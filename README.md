@@ -193,3 +193,9 @@ Potential enhancements for this project include:
 
 These improvements could help make EV charging demand forecasts more useful for infrastructure planning and operational decision-making.
 
+
+## 🤝 Collaboration
+
+This project can be extended through collaborative contributions, including documentation improvements, forecasting experiments, data quality checks, and dashboard enhancements.
+
+Contributors should explain their changes clearly and validate analytical results before incorporating them into the project.
